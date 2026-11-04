@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T15:05:24Z",
- "seconds": 47,
+ "generated_at": "2026-11-04T17:46:40Z",
+ "seconds": 49,
  "sources": [
   {
    "source": "AQR",
@@ -108,7 +108,7 @@
    "source": "Find an apprenticeship (GOV.UK)",
    "kind": "faa",
    "ok": true,
-   "count": 44
+   "count": 50
   },
   {
    "source": "Flow Traders",
@@ -168,7 +168,7 @@
    "source": "J.P. Morgan",
    "kind": "oracle",
    "ok": true,
-   "count": 62
+   "count": 63
   },
   {
    "source": "Jane Street",
@@ -198,13 +198,13 @@
    "source": "Lloyds Banking Group",
    "kind": "workday",
    "ok": true,
-   "count": 55
+   "count": 56
   },
   {
    "source": "MUFG",
    "kind": "workday",
    "ok": true,
-   "count": 34
+   "count": 36
   },
   {
    "source": "Man Group",
@@ -264,7 +264,7 @@
    "source": "Santander",
    "kind": "workday",
    "ok": true,
-   "count": 43
+   "count": 44
   },
   {
    "source": "Schonfeld",
@@ -288,7 +288,7 @@
    "source": "TD Securities",
    "kind": "workday",
    "ok": true,
-   "count": 16
+   "count": 17
   },
   {
    "source": "Teneo",
@@ -345,7 +345,7 @@
    "count": 3
   }
  ],
- "total_seen": 1182,
+ "total_seen": 1193,
  "jobs": [
   {
    "source": "greenhouse",
@@ -589,38 +589,6 @@
   },
   {
    "source": "greenhouse",
-   "company": "Point72",
-   "category": "hedge_fund",
-   "title": "Trader",
-   "location": "London",
-   "url": "https://boards.greenhouse.io/point72/jobs/8470606002?gh_jid=8470606002",
-   "posted": "2026-10-30",
-   "department": "Quant Management",
-   "description": "Role: An established quantitative portfolio management team at Point72 is looking for an experienced trader to oversee the team’s trading process, contribute to its core business, and develop new areas of expertise. This is an opportunity for candidates with expertise in systemat",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Hedge fund",
-   "level": "mid",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Trading"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 170000,
-   "comp_basis": "estimated",
-   "reach": 0.23,
-   "flags": [
-    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
-   ],
-   "match": 38250
-  },
-  {
-   "source": "greenhouse",
    "company": "Winton",
    "category": "hedge_fund",
    "title": "Register Your Interest: Investment Management",
@@ -640,6 +608,38 @@
    "interest": 1.0,
    "tracks": [
     "Investing"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 170000,
+   "comp_basis": "estimated",
+   "reach": 0.23,
+   "flags": [
+    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
+   ],
+   "match": 38250
+  },
+  {
+   "source": "greenhouse",
+   "company": "Point72",
+   "category": "hedge_fund",
+   "title": "Trader",
+   "location": "London",
+   "url": "https://boards.greenhouse.io/point72/jobs/8470606002?gh_jid=8470606002",
+   "posted": "2026-10-30",
+   "department": "Quant Management",
+   "description": "Role: An established quantitative portfolio management team at Point72 is looking for an experienced trader to oversee the team’s trading process, contribute to its core business, and develop new areas of expertise. This is an opportunity for candidates with expertise in systemat",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Hedge fund",
+   "level": "mid",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Trading"
    ],
    "workplace_type": "unknown",
    "base_pay": null,
@@ -993,15 +993,15 @@
    "match": 37200
   },
   {
-   "source": "workday",
-   "company": "Citi",
+   "source": "oracle",
+   "company": "J.P. Morgan",
    "category": "bulge_bracket",
-   "title": "Investment Banking Analyst, M&A",
-   "location": "London  United Kingdom",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011",
-   "posted": "2026-11-03",
-   "department": "",
-   "description": "The Investment Banking Analyst is an intermediate level position responsible for assisting clients in raising funds in the capital markets, as well as in providing strategic advisory services for mergers, acquisitions and other types of financial transactions in coordination with",
+   "title": "Investment Banking - UK Natural Resources - Analyst - London",
+   "location": "LONDON, LONDON, United Kingdom",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806807",
+   "posted": "2026-11-04",
+   "department": "Analysts / Program Analysts & Associate",
+   "description": "This is an exciting opportunity for someone who is highly motivated to work in a dynamic team and to contribute to our Investment Banking business. ",
    "salary_min": null,
    "salary_max": null,
    "salary_text": "",
@@ -1013,42 +1013,7 @@
    "interest": 1.0,
    "tracks": [
     "Corporate finance / IB",
-    "Finance / accounting",
-    "Transaction services"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 100000,
-   "comp_basis": "estimated",
-   "reach": 0.37,
-   "flags": [
-    "Front-office analyst roles are fiercely competitive and often degree-screened"
-   ],
-   "match": 37200
-  },
-  {
-   "source": "workday",
-   "company": "Citi",
-   "category": "bulge_bracket",
-   "title": "Investment Banking Analyst, Consumer & Retail",
-   "location": "London  United Kingdom",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--Consumer---Retail_26996269",
-   "posted": "2026-09-28",
-   "department": "",
-   "description": "The Investment Banking Analyst is an intermediate level position responsible for assisting clients in raising funds in the capital markets, as well as in providing strategic advisory services for mergers, acquisitions and other types of financial transactions in coordination with",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "entry",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Corporate finance / IB",
-    "Finance / accounting",
-    "Transaction services"
+    "Finance / accounting"
    ],
    "workplace_type": "unknown",
    "base_pay": null,
@@ -1325,6 +1290,74 @@
    "match": 37200
   },
   {
+   "source": "workday",
+   "company": "Citi",
+   "category": "bulge_bracket",
+   "title": "Investment Banking Analyst, M&A",
+   "location": "London  United Kingdom",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--M-A_261007011",
+   "posted": "2026-11-03",
+   "department": "",
+   "description": "The Investment Banking Analyst is an intermediate level position responsible for assisting clients in raising funds in the capital markets, as well as in providing strategic advisory services for mergers, acquisitions and other types of financial transactions in coordination with",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "entry",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Corporate finance / IB",
+    "Finance / accounting",
+    "Transaction services"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 100000,
+   "comp_basis": "estimated",
+   "reach": 0.37,
+   "flags": [
+    "Front-office analyst roles are fiercely competitive and often degree-screened"
+   ],
+   "match": 37200
+  },
+  {
+   "source": "workday",
+   "company": "Citi",
+   "category": "bulge_bracket",
+   "title": "Investment Banking Analyst, Consumer & Retail",
+   "location": "London  United Kingdom",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Investment-Banking-Analyst--Consumer---Retail_26996269",
+   "posted": "2026-09-28",
+   "department": "",
+   "description": "The Investment Banking Analyst is an intermediate level position responsible for assisting clients in raising funds in the capital markets, as well as in providing strategic advisory services for mergers, acquisitions and other types of financial transactions in coordination with",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "entry",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Corporate finance / IB",
+    "Finance / accounting",
+    "Transaction services"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 100000,
+   "comp_basis": "estimated",
+   "reach": 0.37,
+   "flags": [
+    "Front-office analyst roles are fiercely competitive and often degree-screened"
+   ],
+   "match": 37200
+  },
+  {
    "source": "greenhouse",
    "company": "William Blair",
    "category": "boutique",
@@ -1460,6 +1493,232 @@
    "flags": [
     "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
    ],
+   "match": 36000
+  },
+  {
+   "source": "workday",
+   "company": "TD Securities",
+   "category": "bulge_bracket",
+   "title": "Associate, Corporate Investment Banking",
+   "location": "London, United Kingdom",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/Associate--Corporate-Investment-Banking_R_1520706-1",
+   "posted": "2026-11-04",
+   "department": "",
+   "description": "Work Location : London, United Kingdom Hours: 35 Line of Business: TD Securities Pay Details: We’re committed to providing fair and equitable compensation to all our colleagues. As a candidate, we encourage you to have an open dialogue with a member of our HR Team and ask compens",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "mid",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Corporate finance / IB",
+    "Trading"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 160000,
+   "comp_basis": "estimated",
+   "reach": 0.23,
+   "flags": [
+    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
+   ],
+   "match": 36000
+  },
+  {
+   "source": "oracle",
+   "company": "J.P. Morgan",
+   "category": "bulge_bracket",
+   "title": "Investment Banking – Benelux Financial Institutions Group (FIG) / FinTech – Associate – London",
+   "location": "LONDON, LONDON, United Kingdom",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771123",
+   "posted": "2026-11-04",
+   "department": "Analysts / Program Analysts & Associate",
+   "description": "This is an exciting opportunity for someone who is highly motivated to work in a dynamic team and to contribute to our Investment Banking business. ",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "mid",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Corporate finance / IB",
+    "Finance / accounting"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 160000,
+   "comp_basis": "estimated",
+   "reach": 0.23,
+   "flags": [
+    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
+   ],
+   "match": 36000
+  },
+  {
+   "source": "oracle",
+   "company": "J.P. Morgan",
+   "category": "bulge_bracket",
+   "title": "Investment Banking - EMEA Strategic Investors Group (SIG) – Associate – Family Investment Firms Coverage – London",
+   "location": "LONDON, LONDON, United Kingdom",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790735",
+   "posted": "2026-10-22",
+   "department": "Associates / Program Analysts & Associate",
+   "description": ".",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "mid",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Corporate finance / IB"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 160000,
+   "comp_basis": "estimated",
+   "reach": 0.23,
+   "flags": [
+    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
+   ],
+   "match": 36000
+  },
+  {
+   "source": "oracle",
+   "company": "J.P. Morgan",
+   "category": "bulge_bracket",
+   "title": "Investment Banking - Infrastructure Advisory – Senior Associate – London",
+   "location": "LONDON, LONDON, United Kingdom",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780023",
+   "posted": "2026-08-12",
+   "department": "Associates / Program Analysts & Associate",
+   "description": "The Infrastructure Finance and Advisory group is recruiting for an Analyst to join the team in London.  ",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "mid",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Corporate finance / IB"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 160000,
+   "comp_basis": "estimated",
+   "reach": 0.23,
+   "flags": [
+    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
+   ],
+   "match": 36000
+  },
+  {
+   "source": "oracle",
+   "company": "J.P. Morgan",
+   "category": "bulge_bracket",
+   "title": "Investment Banking – UK Real Estate – Senior Associate – London",
+   "location": "LONDON, LONDON, United Kingdom",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748770",
+   "posted": "2026-05-15",
+   "department": "Associates / Program Analysts & Associate",
+   "description": "An exciting opportunity to join our UK Real Estate team based in London.",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "mid",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Corporate finance / IB"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 160000,
+   "comp_basis": "estimated",
+   "reach": 0.23,
+   "flags": [
+    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
+   ],
+   "match": 36000
+  },
+  {
+   "source": "oracle",
+   "company": "J.P. Morgan",
+   "category": "bulge_bracket",
+   "title": "Investment Banking – EMEA Healthcare Associate – London",
+   "location": "LONDON, LONDON, United Kingdom",
+   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745818",
+   "posted": "2026-05-08",
+   "department": "Associates / Program Analysts & Associate",
+   "description": ".",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "mid",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Corporate finance / IB"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 160000,
+   "comp_basis": "estimated",
+   "reach": 0.23,
+   "flags": [
+    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
+   ],
+   "match": 36000
+  },
+  {
+   "source": "workday",
+   "company": "State Street",
+   "category": "asset_manager",
+   "title": "Front Office Trading Services, EFC, Officer",
+   "location": "London, England (United Kingdom)",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Front-Office-Trading-Services--EFC--Officer_R-799922",
+   "posted": "2026-10-20",
+   "department": "",
+   "description": "Job Title: Front Office Trading Services, EFC, Officer Location: London, UK Job Description Who we are looking for We are looking for a motivated candidate who is eager to learn and expand their analytical and communication skills, while providing day-to-day support for Client Ma",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {
+    "closes": "2026-11-30"
+   },
+   "category_label": "Asset manager / markets infra",
+   "level": "mid",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Trading"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 80000,
+   "comp_basis": "estimated",
+   "reach": 0.45,
+   "flags": [],
    "match": 36000
   },
   {
@@ -1618,199 +1877,6 @@
    "tracks": [
     "Corporate finance / IB",
     "Trading"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 160000,
-   "comp_basis": "estimated",
-   "reach": 0.23,
-   "flags": [
-    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
-   ],
-   "match": 36000
-  },
-  {
-   "source": "workday",
-   "company": "State Street",
-   "category": "asset_manager",
-   "title": "Front Office Trading Services, EFC, Officer",
-   "location": "London, England (United Kingdom)",
-   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Front-Office-Trading-Services--EFC--Officer_R-799922",
-   "posted": "2026-10-20",
-   "department": "",
-   "description": "Job Title: Front Office Trading Services, EFC, Officer Location: London, UK Job Description Who we are looking for We are looking for a motivated candidate who is eager to learn and expand their analytical and communication skills, while providing day-to-day support for Client Ma",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {
-    "closes": "2026-11-30"
-   },
-   "category_label": "Asset manager / markets infra",
-   "level": "mid",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Trading"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 80000,
-   "comp_basis": "estimated",
-   "reach": 0.45,
-   "flags": [],
-   "match": 36000
-  },
-  {
-   "source": "oracle",
-   "company": "J.P. Morgan",
-   "category": "bulge_bracket",
-   "title": "Investment Banking – Benelux Financial Institutions Group (FIG) / FinTech – Associate (Dutch or French Speaker) – London",
-   "location": "LONDON, LONDON, United Kingdom",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771123",
-   "posted": "2026-11-04",
-   "department": "Analysts / Program Analysts & Associate",
-   "description": "This is an exciting opportunity for someone who is highly motivated to work in a dynamic team and to contribute to our Investment Banking business. ",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "mid",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Corporate finance / IB",
-    "Finance / accounting"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 160000,
-   "comp_basis": "estimated",
-   "reach": 0.23,
-   "flags": [
-    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
-   ],
-   "match": 36000
-  },
-  {
-   "source": "oracle",
-   "company": "J.P. Morgan",
-   "category": "bulge_bracket",
-   "title": "Investment Banking - EMEA Strategic Investors Group (SIG) – Associate – Family Investment Firms Coverage – London",
-   "location": "LONDON, LONDON, United Kingdom",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790735",
-   "posted": "2026-10-22",
-   "department": "Associates / Program Analysts & Associate",
-   "description": ".",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "mid",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Corporate finance / IB"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 160000,
-   "comp_basis": "estimated",
-   "reach": 0.23,
-   "flags": [
-    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
-   ],
-   "match": 36000
-  },
-  {
-   "source": "oracle",
-   "company": "J.P. Morgan",
-   "category": "bulge_bracket",
-   "title": "Investment Banking - Infrastructure Advisory – Senior Associate – London",
-   "location": "LONDON, LONDON, United Kingdom",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210780023",
-   "posted": "2026-08-12",
-   "department": "Associates / Program Analysts & Associate",
-   "description": "The Infrastructure Finance and Advisory group is recruiting for an Analyst to join the team in London.  ",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "mid",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Corporate finance / IB"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 160000,
-   "comp_basis": "estimated",
-   "reach": 0.23,
-   "flags": [
-    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
-   ],
-   "match": 36000
-  },
-  {
-   "source": "oracle",
-   "company": "J.P. Morgan",
-   "category": "bulge_bracket",
-   "title": "Investment Banking – UK Real Estate – Senior Associate – London",
-   "location": "LONDON, LONDON, United Kingdom",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748770",
-   "posted": "2026-05-15",
-   "department": "Associates / Program Analysts & Associate",
-   "description": "An exciting opportunity to join our UK Real Estate team based in London.",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "mid",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Corporate finance / IB"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 160000,
-   "comp_basis": "estimated",
-   "reach": 0.23,
-   "flags": [
-    "Associate-level: usually hired from 2-3 yrs as an analyst or Big 4 deals"
-   ],
-   "match": 36000
-  },
-  {
-   "source": "oracle",
-   "company": "J.P. Morgan",
-   "category": "bulge_bracket",
-   "title": "Investment Banking – EMEA Healthcare Associate – London",
-   "location": "LONDON, LONDON, United Kingdom",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745818",
-   "posted": "2026-05-08",
-   "department": "Associates / Program Analysts & Associate",
-   "description": ".",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "mid",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Corporate finance / IB"
    ],
    "workplace_type": "unknown",
    "base_pay": null,
@@ -2019,6 +2085,40 @@
    "comp_basis": "estimated",
    "reach": 0.45,
    "flags": [],
+   "match": 34344
+  },
+  {
+   "source": "workday",
+   "company": "Lloyds Banking Group",
+   "category": "retail_bank",
+   "title": "Associate – Healthcare, TMT & Leisure Sector Coverage",
+   "location": "London (United Kingdom)",
+   "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Associate---Healthcare--TMT---Leisure-Sector-Coverage_165082-1",
+   "posted": "2026-11-04",
+   "department": "",
+   "description": "End Date Wednesday 18 November 2026 Salary Range £0 - £0 We support flexible working – click here for more information on flexible working options Flexible Working Options Hybrid Working, Job Share Job Description Summary . Job Description Job Title: Associate – Healthcare, TMT &",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {
+    "closes": "2026-11-19"
+   },
+   "category_label": "UK bank",
+   "level": "mid",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Corporate finance / IB"
+   ],
+   "workplace_type": "hybrid",
+   "base_pay": null,
+   "comp": 60000,
+   "comp_basis": "estimated",
+   "reach": 0.54,
+   "flags": [
+    "Asks for audit / ACA / AAT background - plays to your experience"
+   ],
    "match": 34344
   },
   {
@@ -2923,6 +3023,38 @@
   },
   {
    "source": "workday",
+   "company": "MUFG",
+   "category": "bulge_bracket",
+   "title": "Liability Management and Hybrid Capital, Associate",
+   "location": "London (United Kingdom)",
+   "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/London/Liability-Management-and-Hybrid-Capital--Associate_10079975-WD-1",
+   "posted": "2026-11-04",
+   "department": "",
+   "description": "Do you want your voice heard and your actions to count? Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "mid",
+   "function": "other",
+   "interest": 0.5,
+   "tracks": [
+    "Trading",
+    "Corporate finance / IB",
+    "Transaction services"
+   ],
+   "workplace_type": "hybrid",
+   "base_pay": null,
+   "comp": 88000.0,
+   "comp_basis": "estimated",
+   "reach": 0.45,
+   "flags": [],
+   "match": 26235
+  },
+  {
+   "source": "workday",
    "company": "Morgan Stanley",
    "category": "bulge_bracket",
    "title": "FID - eRates Sales London",
@@ -3660,6 +3792,36 @@
   },
   {
    "source": "greenhouse",
+   "company": "IMC Trading",
+   "category": "prop_trading",
+   "title": "Office Assistant",
+   "location": "London, United Kingdom",
+   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4987654101",
+   "posted": "2026-10-30",
+   "department": "Operations",
+   "description": "IMC is looking for an Office Assistant to support all employees at our London office. In this varied role, you will be the first point of contact and act as host/hostess for both external and internal visitors. In addition, you will be co-responsible for a wide range of activitie",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Prop trading / market maker",
+   "level": "entry",
+   "function": "back",
+   "interest": 0.5,
+   "tracks": [
+    "Trading"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 59500.0,
+   "comp_basis": "estimated",
+   "reach": 0.62,
+   "flags": [],
+   "match": 23056
+  },
+  {
+   "source": "greenhouse",
    "company": "Jane Street",
    "category": "prop_trading",
    "title": "AML Onboarding Analyst",
@@ -3680,36 +3842,6 @@
    "tracks": [
     "Finance / accounting",
     "Ops / risk",
-    "Trading"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 59500.0,
-   "comp_basis": "estimated",
-   "reach": 0.62,
-   "flags": [],
-   "match": 23056
-  },
-  {
-   "source": "greenhouse",
-   "company": "IMC Trading",
-   "category": "prop_trading",
-   "title": "Office Assistant",
-   "location": "London, United Kingdom",
-   "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4987654101",
-   "posted": "2026-10-30",
-   "department": "Operations",
-   "description": "IMC is looking for an Office Assistant to support all employees at our London office. In this varied role, you will be the first point of contact and act as host/hostess for both external and internal visitors. In addition, you will be co-responsible for a wide range of activitie",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Prop trading / market maker",
-   "level": "entry",
-   "function": "back",
-   "interest": 0.5,
-   "tracks": [
     "Trading"
    ],
    "workplace_type": "unknown",
@@ -5384,36 +5516,6 @@
    "match": 17550
   },
   {
-   "source": "workday",
-   "company": "Citi",
-   "category": "bulge_bracket",
-   "title": "Global Wealth, Full Time Analyst, London, United Kingdom 2027",
-   "location": "London  United Kingdom",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Global-Wealth--Full-Time-Analyst--London--United-Kingdom-2027_26997536",
-   "posted": "2026-11-03",
-   "department": "",
-   "description": "You're the brains behind our work. You're ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it's honing your skills or building your network, we know that success can't come without growth. Our programs equip you with ",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "entry",
-   "function": "other",
-   "interest": 0.35,
-   "tracks": [
-    "Finance / accounting"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 55000.0,
-   "comp_basis": "estimated",
-   "reach": 0.62,
-   "flags": [],
-   "match": 17476
-  },
-  {
    "source": "oracle",
    "company": "J.P. Morgan",
    "category": "bulge_bracket",
@@ -5435,6 +5537,36 @@
    "tracks": [
     "Finance / accounting",
     "Ops / risk"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 55000.0,
+   "comp_basis": "estimated",
+   "reach": 0.62,
+   "flags": [],
+   "match": 17476
+  },
+  {
+   "source": "workday",
+   "company": "Citi",
+   "category": "bulge_bracket",
+   "title": "Global Wealth, Full Time Analyst, London, United Kingdom 2027",
+   "location": "London  United Kingdom",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Global-Wealth--Full-Time-Analyst--London--United-Kingdom-2027_26997536",
+   "posted": "2026-11-03",
+   "department": "",
+   "description": "You're the brains behind our work. You're ready to bring your knowledge from the classroom to the boardroom and Citi wants to help you get there. Whether it's honing your skills or building your network, we know that success can't come without growth. Our programs equip you with ",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "entry",
+   "function": "other",
+   "interest": 0.35,
+   "tracks": [
+    "Finance / accounting"
    ],
    "workplace_type": "unknown",
    "base_pay": null,
@@ -6079,69 +6211,6 @@
   },
   {
    "source": "workday",
-   "company": "Morgan Stanley",
-   "category": "bulge_bracket",
-   "title": "Investment Banking, EMEA Emerging Markets Coverage – Vice President (Primary Focus CEE)",
-   "location": "London, United Kingdom",
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Investment-Banking--EMEA-Emerging-Markets-Coverage---Vice-President--Primary-Focus-CEE-_JR046044",
-   "posted": "2026-10-28",
-   "department": "",
-   "description": "Morgan Stanley’s Investment Banking Division is seeking a junior Vice President (VP Class 2026 or 2027) to join our EMEA Emerging Markets Coverage team in London, with a primary focus on CEE. In the Investment Banking Division, we offer global expertise in market analysis and in ",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "senior",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Corporate finance / IB",
-    "Trading",
-    "Transaction services"
-   ],
-   "workplace_type": "hybrid",
-   "base_pay": null,
-   "comp": 260000,
-   "comp_basis": "estimated",
-   "reach": 0.06,
-   "flags": [],
-   "match": 16536
-  },
-  {
-   "source": "workday",
-   "company": "Morgan Stanley",
-   "category": "bulge_bracket",
-   "title": "Investment Banking - UK FIG - Vice President / Snr Associate",
-   "location": "London, United Kingdom",
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Investment-Banking---UK-Financial-Institutions-Group---Associate_JR040296",
-   "posted": "2026-07-21",
-   "department": "",
-   "description": "Morgan Stanley Morgan Stanley is a leading global financial services firm providing a wide range of investment banking, securities, investment management and wealth management services. The Firm's employees serve clients worldwide including corporations, governments and individua",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "senior",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Corporate finance / IB",
-    "Investing"
-   ],
-   "workplace_type": "hybrid",
-   "base_pay": null,
-   "comp": 260000,
-   "comp_basis": "estimated",
-   "reach": 0.06,
-   "flags": [],
-   "match": 16536
-  },
-  {
-   "source": "workday",
    "company": "MUFG",
    "category": "bulge_bracket",
    "title": "Vice President, EMEA Fund Finance FX Products - FI Sponsor Coverage",
@@ -6198,6 +6267,69 @@
     "Trading",
     "Corporate finance / IB",
     "Transaction services"
+   ],
+   "workplace_type": "hybrid",
+   "base_pay": null,
+   "comp": 260000,
+   "comp_basis": "estimated",
+   "reach": 0.06,
+   "flags": [],
+   "match": 16536
+  },
+  {
+   "source": "workday",
+   "company": "Morgan Stanley",
+   "category": "bulge_bracket",
+   "title": "Investment Banking, EMEA Emerging Markets Coverage – Vice President (Primary Focus CEE)",
+   "location": "London, United Kingdom",
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Investment-Banking--EMEA-Emerging-Markets-Coverage---Vice-President--Primary-Focus-CEE-_JR046044",
+   "posted": "2026-10-28",
+   "department": "",
+   "description": "Morgan Stanley’s Investment Banking Division is seeking a junior Vice President (VP Class 2026 or 2027) to join our EMEA Emerging Markets Coverage team in London, with a primary focus on CEE. In the Investment Banking Division, we offer global expertise in market analysis and in ",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "senior",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Corporate finance / IB",
+    "Trading",
+    "Transaction services"
+   ],
+   "workplace_type": "hybrid",
+   "base_pay": null,
+   "comp": 260000,
+   "comp_basis": "estimated",
+   "reach": 0.06,
+   "flags": [],
+   "match": 16536
+  },
+  {
+   "source": "workday",
+   "company": "Morgan Stanley",
+   "category": "bulge_bracket",
+   "title": "Investment Banking - UK FIG - Vice President / Snr Associate",
+   "location": "London, United Kingdom",
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Investment-Banking---UK-Financial-Institutions-Group---Associate_JR040296",
+   "posted": "2026-07-21",
+   "department": "",
+   "description": "Morgan Stanley Morgan Stanley is a leading global financial services firm providing a wide range of investment banking, securities, investment management and wealth management services. The Firm's employees serve clients worldwide including corporations, governments and individua",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "senior",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Corporate finance / IB",
+    "Investing"
    ],
    "workplace_type": "hybrid",
    "base_pay": null,
@@ -6779,40 +6911,6 @@
   },
   {
    "source": "workday",
-   "company": "ING",
-   "category": "bulge_bracket",
-   "title": "Acquisition Finance Portfolio Management  - VP",
-   "location": "London (United Kingdom)",
-   "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/London/Acquisition-Finance-Portfolio-Management----Associate_REQ-10121528-1",
-   "posted": "2026-10-05",
-   "department": "",
-   "description": "Acquisition Finance Portfolio Management - Vice President We have a great opportunity to join our Acquisition Finance Portfolio Management (“AF PM”) team as Vice President (“VP”), a function within ING Lending franchise in UK. This is a mid-level lending professional role within ",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "senior",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Investing",
-    "Finance / accounting",
-    "Trading",
-    "Corporate finance / IB",
-    "Transaction services"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 260000,
-   "comp_basis": "estimated",
-   "reach": 0.06,
-   "flags": [],
-   "match": 15600
-  },
-  {
-   "source": "workday",
    "company": "MUFG",
    "category": "bulge_bracket",
    "title": "VP - Rates Sales",
@@ -6866,6 +6964,40 @@
     "Finance / accounting",
     "Trading",
     "Private equity"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 260000,
+   "comp_basis": "estimated",
+   "reach": 0.06,
+   "flags": [],
+   "match": 15600
+  },
+  {
+   "source": "workday",
+   "company": "ING",
+   "category": "bulge_bracket",
+   "title": "Acquisition Finance Portfolio Management  - VP",
+   "location": "London (United Kingdom)",
+   "url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/London/Acquisition-Finance-Portfolio-Management----Associate_REQ-10121528-1",
+   "posted": "2026-10-05",
+   "department": "",
+   "description": "Acquisition Finance Portfolio Management - Vice President We have a great opportunity to join our Acquisition Finance Portfolio Management (“AF PM”) team as Vice President (“VP”), a function within ING Lending franchise in UK. This is a mid-level lending professional role within ",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "senior",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Investing",
+    "Finance / accounting",
+    "Trading",
+    "Corporate finance / IB",
+    "Transaction services"
    ],
    "workplace_type": "unknown",
    "base_pay": null,
@@ -7398,6 +7530,41 @@
   },
   {
    "source": "greenhouse",
+   "company": "William Blair",
+   "category": "boutique",
+   "title": "Research Associate, Global Financials",
+   "location": "London, England",
+   "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5238905007",
+   "posted": "2026-10-30",
+   "department": "675 IM Investments - Global Growth",
+   "description": "Solutions for Today’s Challenges. Vision for Tomorrow’s Opportunities. Join William Blair, the Premier Global Partnership. We are seeking a Research Associate to support our Financials investment team in conducting fundamental equity research across the global financial services ",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "IB boutique / advisory",
+   "level": "mid",
+   "function": "other",
+   "interest": 0.5,
+   "tracks": [
+    "Finance / accounting",
+    "Investing",
+    "Corporate finance / IB",
+    "Transaction services"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 90800.0,
+   "comp_basis": "estimated",
+   "reach": 0.27,
+   "flags": [
+    "Asks for a degree - lean on AAT L4 + ACA progress"
+   ],
+   "match": 15314
+  },
+  {
+   "source": "greenhouse",
    "company": "Lincoln International",
    "category": "boutique",
    "title": "Experienced Associate, Asset-Backed Finance",
@@ -7421,41 +7588,6 @@
     "Corporate finance / IB",
     "Transaction services",
     "Private equity"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 90800.0,
-   "comp_basis": "estimated",
-   "reach": 0.27,
-   "flags": [
-    "Asks for a degree - lean on AAT L4 + ACA progress"
-   ],
-   "match": 15314
-  },
-  {
-   "source": "greenhouse",
-   "company": "William Blair",
-   "category": "boutique",
-   "title": "Research Associate, Global Financials",
-   "location": "London, England",
-   "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5238905007",
-   "posted": "2026-10-30",
-   "department": "675 IM Investments - Global Growth",
-   "description": "Solutions for Today’s Challenges. Vision for Tomorrow’s Opportunities. Join William Blair, the Premier Global Partnership. We are seeking a Research Associate to support our Financials investment team in conducting fundamental equity research across the global financial services ",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "IB boutique / advisory",
-   "level": "mid",
-   "function": "other",
-   "interest": 0.5,
-   "tracks": [
-    "Finance / accounting",
-    "Investing",
-    "Corporate finance / IB",
-    "Transaction services"
    ],
    "workplace_type": "unknown",
    "base_pay": null,
@@ -7821,6 +7953,38 @@
   },
   {
    "source": "workday",
+   "company": "Wells Fargo",
+   "category": "bulge_bracket",
+   "title": "International Controllers - Regulatory Reporting & Digitalisation Business Analyst",
+   "location": "CITY OF LONDON, (United Kingdom)",
+   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/International-Controllers---Regulatory-Reporting---Digitalisation-Business-Analyst_R-580221",
+   "posted": "2026-10-27",
+   "department": "",
+   "description": "About this role: Wells Fargo is seeking a Business Analyst to join the International Controller Change team, working as part of an Agile Scrum focused on delivering strategic regulatory reporting, regulatory technology and digitalisation initiatives across the International Contr",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {
+    "closes": "2026-11-13"
+   },
+   "category_label": "Investment bank",
+   "level": "entry",
+   "function": "back",
+   "interest": 0.35,
+   "tracks": [
+    "Finance / accounting"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 45000.0,
+   "comp_basis": "estimated",
+   "reach": 0.62,
+   "flags": [],
+   "match": 14299
+  },
+  {
+   "source": "workday",
    "company": "TD Securities",
    "category": "bulge_bracket",
    "title": "TDS Operations Analyst I",
@@ -7903,38 +8067,6 @@
    "tracks": [
     "Finance / accounting",
     "Ops / risk"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 45000.0,
-   "comp_basis": "estimated",
-   "reach": 0.62,
-   "flags": [],
-   "match": 14299
-  },
-  {
-   "source": "workday",
-   "company": "Wells Fargo",
-   "category": "bulge_bracket",
-   "title": "International Controllers - Regulatory Reporting & Digitalisation Business Analyst",
-   "location": "CITY OF LONDON, (United Kingdom)",
-   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/International-Controllers---Regulatory-Reporting---Digitalisation-Business-Analyst_R-580221",
-   "posted": "2026-10-27",
-   "department": "",
-   "description": "About this role: Wells Fargo is seeking a Business Analyst to join the International Controller Change team, working as part of an Agile Scrum focused on delivering strategic regulatory reporting, regulatory technology and digitalisation initiatives across the International Contr",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {
-    "closes": "2026-11-13"
-   },
-   "category_label": "Investment bank",
-   "level": "entry",
-   "function": "back",
-   "interest": 0.35,
-   "tracks": [
-    "Finance / accounting"
    ],
    "workplace_type": "unknown",
    "base_pay": null,
@@ -8149,9 +8281,9 @@
    "title": "Program Advisory, Consulting & Execution, Vice President- Belfast",
    "location": "Belfast  United Kingdom",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Program-Advisory--Consulting---Execution--Vice-President_261004788-1",
-   "posted": "2026-11-03",
+   "posted": "2026-11-04",
    "department": "",
-   "description": "The Program Advisory, Consulting & Execution (PACE) organization is Citi’s internal consulting and program execution team. Operating from Finance with a firmwide mandate, PACE serves as a strategic internal partner delivering management consulting, program advisory, and end-to-en",
+   "description": "Introduction: The Program Advisory, Consulting & Execution (PACE) organization is Citi’s internal consulting and program execution team. Operating from Finance with a firmwide mandate, PACE serves as a strategic internal partner delivering management consulting, program advisory,",
    "salary_min": null,
    "salary_max": null,
    "salary_text": "",
@@ -8172,6 +8304,42 @@
    "reach": 0.06,
    "flags": [],
    "match": 14056
+  },
+  {
+   "source": "gov.uk apprenticeships",
+   "company": "Lloyds Banking Group",
+   "category": "retail_bank",
+   "title": "Consumer Financial Services Professional Apprentice - London",
+   "location": "London (EC2V 7HN)",
+   "url": "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC2000062683",
+   "posted": "4 November 2026",
+   "department": "Apprenticeship",
+   "description": "Apprenticeship. Training course: Financial services professional (level 6).",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "£32,000 a year",
+   "workplace": null,
+   "extra": {
+    "course": "Financial services professional (level 6)",
+    "closes": "Closes in 27 days (Tuesday 1 December 2026)",
+    "start": "1 April 2027"
+   },
+   "category_label": "UK bank",
+   "level": "apprentice",
+   "function": "other",
+   "interest": 0.35,
+   "tracks": [
+    "Finance / accounting"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": 32000,
+   "comp": 32000.0,
+   "comp_basis": "advertised",
+   "reach": 0.85,
+   "flags": [
+    "Level 6 degree apprenticeship"
+   ],
+   "match": 13940
   },
   {
    "source": "workday",
@@ -8466,6 +8634,39 @@
    "source": "workday",
    "company": "Citi",
    "category": "bulge_bracket",
+   "title": "Risk Reporting 2LOD Analyst",
+   "location": "Belfast  United Kingdom",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Risk-Reporting-2LOD-Analyst_26996637",
+   "posted": "2026-11-04",
+   "department": "",
+   "description": "Excited to grow your career? Are you looking for a career move that will put you at the heart of a global financial institution? Then bring your skills and experience to Citi’s Risk Management team. By joining Citi you will become part of a global organisation whose mission is to",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {
+    "closes": "2026-11-11"
+   },
+   "category_label": "Investment bank",
+   "level": "entry",
+   "function": "back",
+   "interest": 0.35,
+   "tracks": [
+    "Finance / accounting",
+    "Ops / risk"
+   ],
+   "workplace_type": "hybrid",
+   "base_pay": null,
+   "comp": 38200.0,
+   "comp_basis": "estimated",
+   "reach": 0.62,
+   "flags": [],
+   "match": 12883
+  },
+  {
+   "source": "workday",
+   "company": "Citi",
+   "category": "bulge_bracket",
    "title": "Market Data Ordering Analyst",
    "location": "Belfast  United Kingdom",
    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Market-Data-Ordering-Analyst_26996830-1",
@@ -8731,10 +8932,10 @@
    "category": "prop_trading",
    "title": "Quantitative Trading Analyst",
    "location": "London",
-   "url": "https://job-boards.greenhouse.io/drweng/jobs/7957241",
-   "posted": "2026-10-21",
-   "department": "Campus Trading Analyst",
-   "description": "Our formula for success is to hire exceptional people, encourage their ideas and reward their results. As a Quantitative Trading Analyst, you will have an opportunity to combine the disciplines of risk management, research and technology to create optimal trading and investment s",
+   "url": "https://job-boards.greenhouse.io/drweng/jobs/7929846",
+   "posted": "2026-10-30",
+   "department": "London Fixed Income LE",
+   "description": "DRW is a diversified trading firm with over 3 decades of experience bringing sophisticated technology and exceptional people together to operate in markets around the world. We value autonomy and the ability to quickly pivot to capture opportunities, so we operate using our own c",
    "salary_min": null,
    "salary_max": null,
    "salary_text": "",
@@ -9085,6 +9286,114 @@
    "reach": 0.45,
    "flags": [],
    "match": 12115
+  },
+  {
+   "source": "gov.uk apprenticeships",
+   "company": "Lloyds Banking Group",
+   "category": "retail_bank",
+   "title": "Consumer Financial Services Professional Apprentice - Leeds",
+   "location": "Leeds (LS1 4AP)",
+   "url": "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC2000062674",
+   "posted": "4 November 2026",
+   "department": "Apprenticeship",
+   "description": "Apprenticeship. Training course: Financial services professional (level 6).",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "£27,400 a year",
+   "workplace": null,
+   "extra": {
+    "course": "Financial services professional (level 6)",
+    "closes": "Closes on Tuesday 15 December 2026",
+    "start": "1 April 2027"
+   },
+   "category_label": "UK bank",
+   "level": "apprentice",
+   "function": "other",
+   "interest": 0.35,
+   "tracks": [
+    "Finance / accounting"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": 27400,
+   "comp": 27400.0,
+   "comp_basis": "advertised",
+   "reach": 0.85,
+   "flags": [
+    "Level 6 degree apprenticeship"
+   ],
+   "match": 11936
+  },
+  {
+   "source": "gov.uk apprenticeships",
+   "company": "Lloyds Banking Group",
+   "category": "retail_bank",
+   "title": "Consumer Financial Services Professional Apprentice - Edinburgh",
+   "location": "Edinburgh (EH3 9BN)",
+   "url": "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC2000062685",
+   "posted": "4 November 2026",
+   "department": "Apprenticeship",
+   "description": "Apprenticeship. Training course: Financial services professional (level 6).",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "£27,400 a year",
+   "workplace": null,
+   "extra": {
+    "course": "Financial services professional (level 6)",
+    "closes": "Closes on Tuesday 26 January 2027",
+    "start": "1 April 2027"
+   },
+   "category_label": "UK bank",
+   "level": "apprentice",
+   "function": "other",
+   "interest": 0.35,
+   "tracks": [
+    "Finance / accounting"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": 27400,
+   "comp": 27400.0,
+   "comp_basis": "advertised",
+   "reach": 0.85,
+   "flags": [
+    "Level 6 degree apprenticeship"
+   ],
+   "match": 11936
+  },
+  {
+   "source": "gov.uk apprenticeships",
+   "company": "Lloyds Banking Group",
+   "category": "retail_bank",
+   "title": "Consumer Financial Services Professional Apprentice - Bristol",
+   "location": "Bristol (BS1 5LF)",
+   "url": "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC2000062691",
+   "posted": "4 November 2026",
+   "department": "Apprenticeship",
+   "description": "Apprenticeship. Training course: Financial services professional (level 6).",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "£27,400 a year",
+   "workplace": null,
+   "extra": {
+    "course": "Financial services professional (level 6)",
+    "closes": "Closes on Tuesday 29 December 2026",
+    "start": "1 April 2027"
+   },
+   "category_label": "UK bank",
+   "level": "apprentice",
+   "function": "other",
+   "interest": 0.35,
+   "tracks": [
+    "Finance / accounting"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": 27400,
+   "comp": 27400.0,
+   "comp_basis": "advertised",
+   "reach": 0.85,
+   "flags": [
+    "Level 6 degree apprenticeship"
+   ],
+   "match": 11936
   },
   {
    "source": "gov.uk apprenticeships",
@@ -11131,39 +11440,6 @@
    "match": 6325
   },
   {
-   "source": "workday",
-   "company": "Citi",
-   "category": "bulge_bracket",
-   "title": "Quantitative Analyst - Commodities, VP",
-   "location": "London  United Kingdom",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Analyst---Commodities--VP_261000414",
-   "posted": "2026-11-02",
-   "department": "",
-   "description": "Team/Role Overview The Market Quantitative Analysis (MQA) team is looking for a Quantitative Analyst to join the front office Commodities Quant team in London. The business covers the key commodities areas, including Oil, EMEA and NAM Power and Gas, Metals, Agriculturals, Investo",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "senior",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Trading",
-    "Finance / accounting"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 260000,
-   "comp_basis": "estimated",
-   "reach": 0.02,
-   "flags": [
-    "Quant role: usually needs a maths / physics / CS degree"
-   ],
-   "match": 6240
-  },
-  {
    "source": "oracle",
    "company": "J.P. Morgan",
    "category": "bulge_bracket",
@@ -11248,6 +11524,39 @@
    "interest": 1.0,
    "tracks": [
     "Trading"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 260000,
+   "comp_basis": "estimated",
+   "reach": 0.02,
+   "flags": [
+    "Quant role: usually needs a maths / physics / CS degree"
+   ],
+   "match": 6240
+  },
+  {
+   "source": "workday",
+   "company": "Citi",
+   "category": "bulge_bracket",
+   "title": "Quantitative Analyst - Commodities, VP",
+   "location": "London  United Kingdom",
+   "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Quantitative-Analyst---Commodities--VP_261000414",
+   "posted": "2026-11-02",
+   "department": "",
+   "description": "Team/Role Overview The Market Quantitative Analysis (MQA) team is looking for a Quantitative Analyst to join the front office Commodities Quant team in London. The business covers the key commodities areas, including Oil, EMEA and NAM Power and Gas, Metals, Agriculturals, Investo",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "senior",
+   "function": "front",
+   "interest": 1.0,
+   "tracks": [
+    "Trading",
+    "Finance / accounting"
    ],
    "workplace_type": "unknown",
    "base_pay": null,
@@ -11463,37 +11772,6 @@
   },
   {
    "source": "workday",
-   "company": "MUFG",
-   "category": "bulge_bracket",
-   "title": "VP – Regional Treasury & Trade Solutions Manager, Transaction Banking UK",
-   "location": "London (United Kingdom)",
-   "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/London/VP---Regional-Treasury---Trade-Solutions-Manager--Transaction-Banking-UK_10075214-WD-1",
-   "posted": "2026-06-26",
-   "department": "",
-   "description": "Do you want your voice heard and your actions to count? Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "senior",
-   "function": "other",
-   "interest": 0.55,
-   "tracks": [
-    "ACA stepping stone",
-    "Corporate finance / IB"
-   ],
-   "workplace_type": "hybrid",
-   "base_pay": null,
-   "comp": 143000.0,
-   "comp_basis": "estimated",
-   "reach": 0.06,
-   "flags": [],
-   "match": 6025
-  },
-  {
-   "source": "workday",
    "company": "Wells Fargo",
    "category": "bulge_bracket",
    "title": "Vice President, Fund Finance",
@@ -11521,6 +11799,37 @@
     "Corporate finance / IB",
     "Transaction services",
     "Private equity"
+   ],
+   "workplace_type": "hybrid",
+   "base_pay": null,
+   "comp": 143000.0,
+   "comp_basis": "estimated",
+   "reach": 0.06,
+   "flags": [],
+   "match": 6025
+  },
+  {
+   "source": "workday",
+   "company": "MUFG",
+   "category": "bulge_bracket",
+   "title": "VP – Regional Treasury & Trade Solutions Manager, Transaction Banking UK",
+   "location": "London (United Kingdom)",
+   "url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/London/VP---Regional-Treasury---Trade-Solutions-Manager--Transaction-Banking-UK_10075214-WD-1",
+   "posted": "2026-06-26",
+   "department": "",
+   "description": "Do you want your voice heard and your actions to count? Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world’s leading financial groups. Across the globe, we’re 150,000 colleagues, striving to make a difference for every client, organization, and",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {},
+   "category_label": "Investment bank",
+   "level": "senior",
+   "function": "other",
+   "interest": 0.55,
+   "tracks": [
+    "ACA stepping stone",
+    "Corporate finance / IB"
    ],
    "workplace_type": "hybrid",
    "base_pay": null,
@@ -11765,6 +12074,39 @@
   },
   {
    "source": "workday",
+   "company": "Wells Fargo",
+   "category": "bulge_bracket",
+   "title": "Executive Director, Treasury Management Consultant – Payments & Liquidity (US & North America)",
+   "location": "CITY OF LONDON, (United Kingdom)",
+   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Director--Treasury-Management-Consultant---Payments---Liquidity--US---North-America-_R-535013",
+   "posted": "2026-10-22",
+   "department": "",
+   "description": "About this role: Wells Fargo is seeking a Senior Lead Treasury Management Consultant as a part of the International Sales Team within Global Payments and Liquidity (GPL). This role is highly independent and complex which requires the knowledge and skill set to be a subject matter",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "",
+   "workplace": null,
+   "extra": {
+    "closes": "2026-11-05"
+   },
+   "category_label": "Investment bank",
+   "level": "senior",
+   "function": "other",
+   "interest": 0.55,
+   "tracks": [
+    "ACA stepping stone",
+    "Corporate finance / IB"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": null,
+   "comp": 143000.0,
+   "comp_basis": "estimated",
+   "reach": 0.06,
+   "flags": [],
+   "match": 5684
+  },
+  {
+   "source": "workday",
    "company": "Deutsche Bank",
    "category": "bulge_bracket",
    "title": "European Securitisation Research – Associate/Vice President",
@@ -11786,43 +12128,6 @@
     "Trading"
    ],
    "workplace_type": "hybrid",
-   "base_pay": null,
-   "comp": 143000.0,
-   "comp_basis": "estimated",
-   "reach": 0.06,
-   "flags": [],
-   "match": 5684
-  },
-  {
-   "source": "workday",
-   "company": "Morgan Stanley",
-   "category": "bulge_bracket",
-   "title": "Executive Director & Credit Analyst, Floating Rate Loans",
-   "location": "London, United Kingdom",
-   "url": "https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Executive-Director---Credit-Analyst--Floating-Rate-Loans_JR040181",
-   "posted": "2026-10-29",
-   "department": "",
-   "description": "Morgan Stanley Investment Management provides broad-based specialization across a range of asset classes in public and private markets. Our independent investment teams leverage Morgan Stanley’s global resources to serve a diverse client base of governments, institutions, corpora",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {
-    "closes": "2026-11-13"
-   },
-   "category_label": "Investment bank",
-   "level": "senior",
-   "function": "other",
-   "interest": 0.55,
-   "tracks": [
-    "ACA stepping stone",
-    "Finance / accounting",
-    "Trading",
-    "Investing",
-    "Transaction services",
-    "Private equity"
-   ],
-   "workplace_type": "unknown",
    "base_pay": null,
    "comp": 143000.0,
    "comp_basis": "estimated",
@@ -11897,20 +12202,20 @@
   },
   {
    "source": "workday",
-   "company": "Wells Fargo",
+   "company": "Morgan Stanley",
    "category": "bulge_bracket",
-   "title": "Executive Director, Treasury Management Consultant – Payments & Liquidity (US & North America)",
-   "location": "CITY OF LONDON, (United Kingdom)",
-   "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Director--Treasury-Management-Consultant---Payments---Liquidity--US---North-America-_R-535013",
-   "posted": "2026-10-22",
+   "title": "Executive Director & Credit Analyst, Floating Rate Loans",
+   "location": "London, United Kingdom",
+   "url": "https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Executive-Director---Credit-Analyst--Floating-Rate-Loans_JR040181",
+   "posted": "2026-10-29",
    "department": "",
-   "description": "About this role: Wells Fargo is seeking a Senior Lead Treasury Management Consultant as a part of the International Sales Team within Global Payments and Liquidity (GPL). This role is highly independent and complex which requires the knowledge and skill set to be a subject matter",
+   "description": "Morgan Stanley Investment Management provides broad-based specialization across a range of asset classes in public and private markets. Our independent investment teams leverage Morgan Stanley’s global resources to serve a diverse client base of governments, institutions, corpora",
    "salary_min": null,
    "salary_max": null,
    "salary_text": "",
    "workplace": null,
    "extra": {
-    "closes": "2026-11-05"
+    "closes": "2026-11-13"
    },
    "category_label": "Investment bank",
    "level": "senior",
@@ -11918,7 +12223,11 @@
    "interest": 0.55,
    "tracks": [
     "ACA stepping stone",
-    "Corporate finance / IB"
+    "Finance / accounting",
+    "Trading",
+    "Investing",
+    "Transaction services",
+    "Private equity"
    ],
    "workplace_type": "unknown",
    "base_pay": null,
@@ -13159,313 +13468,6 @@
    "match": 5088
   },
   {
-   "source": "successfactors",
-   "company": "EY",
-   "category": "big4",
-   "title": "Manager, Deal Technology (IT), Strategy and Execution, EY-Parthenon, Belfast and Manchester",
-   "location": "Belfast, United Kingdom, BT2 7DT +1 more…",
-   "url": "https://careers.ey.com/ey/job/Belfast-Manager%2C-Deal-Technology-%28IT%29%2C-Strategy-and-Execution%2C-EY-Parthenon%2C-Belfast-and-Manchester-BT2-7DT/1442445233/",
-   "posted": "",
-   "department": "",
-   "description": "At EY, we’re all in to shape your future with confidence. We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. Manager, Deal Technology (IT), Strategy and Exec",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Big 4",
-   "level": "senior",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Transaction services",
-    "Trading",
-    "Corporate finance / IB",
-    "Private equity"
-   ],
-   "workplace_type": "office",
-   "base_pay": null,
-   "comp": 72200.0,
-   "comp_basis": "estimated",
-   "reach": 0.07,
-   "flags": [
-    "Asks for audit / ACA / AAT background - plays to your experience"
-   ],
-   "match": 5046
-  },
-  {
-   "source": "successfactors",
-   "company": "EY",
-   "category": "big4",
-   "title": "Junior Manager, Deal Technology (IT), Strategy and Execution, EY-Parthenon, Belfast and Manchester",
-   "location": "Belfast, United Kingdom, BT2 7DT +1 more…",
-   "url": "https://careers.ey.com/ey/job/Belfast-Junior-Manager%2C-Deal-Technology-%28IT%29%2C-Strategy-and-Execution%2C-EY-Parthenon%2C-Belfast-and-Manchester-BT2-7DT/1442446133/",
-   "posted": "",
-   "department": "",
-   "description": "At EY, we’re all in to shape your future with confidence. We’ll help you succeed in a globally connected powerhouse of diverse teams and take your career wherever you want it to go. Join EY and help to build a better working world. Junior Manager, Deal Technology (IT), Strategy a",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Big 4",
-   "level": "senior",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Transaction services",
-    "Trading",
-    "Corporate finance / IB",
-    "Private equity"
-   ],
-   "workplace_type": "office",
-   "base_pay": null,
-   "comp": 72200.0,
-   "comp_basis": "estimated",
-   "reach": 0.07,
-   "flags": [
-    "Asks for audit / ACA / AAT background - plays to your experience"
-   ],
-   "match": 5046
-  },
-  {
-   "source": "workday",
-   "company": "ICG",
-   "category": "pe_midmarket",
-   "title": "FP&A Vice President / FP&A Principal",
-   "location": "London (United Kingdom)",
-   "url": "https://icg.wd3.myworkdayjobs.com/external_careers/job/London/FP-A-Vice-President---FP-A-Principal_R3297-1",
-   "posted": "2026-10-13",
-   "department": "",
-   "description": "Job Title: FP&A Vice President / FP&A Principal Contract Type: Permanent, full-time Location: London, St Pauls Department: Group Finance What the Hiring Manager says… ‘ICG offers a fast-paced environment where you can learn, develop and make a visible contribution. This role sits",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Private equity (mid-market)",
-   "level": "senior",
-   "function": "other",
-   "interest": 0.55,
-   "tracks": [
-    "ACA stepping stone",
-    "Investing"
-   ],
-   "workplace_type": "unknown",
-   "base_pay": null,
-   "comp": 104500.0,
-   "comp_basis": "estimated",
-   "reach": 0.07,
-   "flags": [
-    "Asks for audit / ACA / AAT background - plays to your experience"
-   ],
-   "match": 4985
-  },
-  {
-   "source": "workday",
-   "company": "Barclays",
-   "category": "bulge_bracket",
-   "title": "Barclays Internal Audit Prudential Regulatory Reporting VP",
-   "location": "Canary Wharf, 1 Churchill Place (United Kingdom)",
-   "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Barclays-Internal-Audit-Prudential-Regulatory-Reporting-VP_JR-0000097501",
-   "posted": "2026-10-27",
-   "department": "",
-   "description": "Job Description Purpose of the role To support the development of audits aligned to the bank’s standards and objectives by working collaboratively with colleagues, providing accurate information and recommendations, and complying with policies and procedures. Accountabilities Aud",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {
-    "closes": "2026-11-10"
-   },
-   "category_label": "Investment bank",
-   "level": "senior",
-   "function": "back",
-   "interest": 0.55,
-   "tracks": [
-    "ACA stepping stone",
-    "Finance / accounting"
-   ],
-   "workplace_type": "hybrid",
-   "base_pay": null,
-   "comp": 117000.0,
-   "comp_basis": "estimated",
-   "reach": 0.06,
-   "flags": [],
-   "match": 4930
-  },
-  {
-   "source": "smartrecruiters",
-   "company": "FRP Advisory",
-   "category": "mid_tier",
-   "title": "Financial Advisory Manager",
-   "location": "Bristol, England, United Kingdom",
-   "url": "https://jobs.smartrecruiters.com/frpadvisory/744000154730139",
-   "posted": "2026-10-09",
-   "department": "FRP - Financial Advisory",
-   "description": "Role overview The Financial Advisory Manager will manage financial due diligence, lender due diligence, independent business reviews, short term cashflow reviews, options reports and Employer Covenant reviews. This role involves managing your own workload, managing other members ",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": "hybrid",
-   "extra": {},
-   "category_label": "Mid-tier advisory",
-   "level": "senior",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Corporate finance / IB",
-    "Transaction services",
-    "Finance / accounting",
-    "Trading",
-    "ACA stepping stone"
-   ],
-   "workplace_type": "hybrid",
-   "base_pay": null,
-   "comp": 63800.0,
-   "comp_basis": "estimated",
-   "reach": 0.07,
-   "flags": [
-    "Asks for audit / ACA / AAT background - plays to your experience"
-   ],
-   "match": 4865
-  },
-  {
-   "source": "smartrecruiters",
-   "company": "FRP Advisory",
-   "category": "mid_tier",
-   "title": "Forensic Accounting Manager or Senior Manager",
-   "location": "Belfast, BT1 6FB, Northern Ireland, United Kingdom",
-   "url": "https://jobs.smartrecruiters.com/frpadvisory/744000154493814",
-   "posted": "2026-10-08",
-   "department": "Forensic Accounting",
-   "description": "Role Overview This role sits within FRP's Forensic Services team in Belfast and focuses on delivering forensic accounting services in relation to personal injury matters. Working closely with solicitors, insurers, counsel and other stakeholders, you will manage engagements involv",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": "hybrid",
-   "extra": {},
-   "category_label": "Mid-tier advisory",
-   "level": "senior",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Transaction services",
-    "Finance / accounting",
-    "ACA stepping stone"
-   ],
-   "workplace_type": "hybrid",
-   "base_pay": null,
-   "comp": 63800.0,
-   "comp_basis": "estimated",
-   "reach": 0.07,
-   "flags": [
-    "Asks for audit / ACA / AAT background - plays to your experience"
-   ],
-   "match": 4865
-  },
-  {
-   "source": "smartrecruiters",
-   "company": "FRP Advisory",
-   "category": "mid_tier",
-   "title": "Manager - Restructuring Advisory",
-   "location": "TS18 3TX, , United Kingdom",
-   "url": "https://jobs.smartrecruiters.com/frpadvisory/744000144605896",
-   "posted": "2026-08-20",
-   "department": "Restructuring Advisory",
-   "description": "Role overview As a Manager within our Restructuring team, you will play a pivotal role in delivering restructuring, turnaround, and insolvency solutions. You’ll be responsible for managing high-impact engagements, shaping strategic outcomes for stressed and distressed businesses,",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": "hybrid",
-   "extra": {},
-   "category_label": "Mid-tier advisory",
-   "level": "senior",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Trading",
-    "Corporate finance / IB",
-    "Transaction services",
-    "ACA stepping stone"
-   ],
-   "workplace_type": "hybrid",
-   "base_pay": null,
-   "comp": 63800.0,
-   "comp_basis": "estimated",
-   "reach": 0.07,
-   "flags": [
-    "Asks for audit / ACA / AAT background - plays to your experience"
-   ],
-   "match": 4865
-  },
-  {
-   "source": "smartrecruiters",
-   "company": "FRP Advisory",
-   "category": "mid_tier",
-   "title": "Forensic Accounting - Assistant Manager or Manager",
-   "location": "Birmingham, England, United Kingdom",
-   "url": "https://jobs.smartrecruiters.com/frpadvisory/744000139581249",
-   "posted": "2026-07-24",
-   "department": "FRP - Forensic Services",
-   "description": "Role overview Based within the Forensic Accounting team in Birmingham, this role focuses on dispute-related matters and forensic accounting investigations work. The position supports complex engagements including litigation, arbitration and financial investigations, working close",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": "hybrid",
-   "extra": {},
-   "category_label": "Mid-tier advisory",
-   "level": "senior",
-   "function": "front",
-   "interest": 1.0,
-   "tracks": [
-    "Transaction services",
-    "Finance / accounting",
-    "Corporate finance / IB",
-    "ACA stepping stone"
-   ],
-   "workplace_type": "hybrid",
-   "base_pay": null,
-   "comp": 63800.0,
-   "comp_basis": "estimated",
-   "reach": 0.07,
-   "flags": [
-    "Asks for audit / ACA / AAT background - plays to your experience"
-   ],
-   "match": 4865
-  },
-  {
-   "source": "workday",
-   "company": "Citi",
-   "category": "bulge_bracket",
-   "title": "Prime Finance Applications Support - Assistant Vice President",
-   "location": "Belfast  United Kingdom",
-   "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Prime-Finance-Applications-Support---Assistant-Vice-President_26999043",
-   "posted": "2026-10-23",
-   "department": "",
-   "description": "Citi, the world leading global bank, has approximately 200 million customer accounts and a presence in more than 160 countries and jurisdictions worldwide. Citi provides consumers, corporations, governments and institutions with a broad range of financial products and services, i",
-   "salary_min": null,
-   "salary_max": null,
-   "salary_text": "",
-   "workplace": null,
-   "extra": {},
-   "category_label": "Investment bank",
-   "level": "senior",
-   "function": "other",
-   "interest": 0.5,
-   "tracks": [
-    "Finance / accounting",
-    "Trading"
-   ],
-   "workplace_type": "hybrid",
-   "base_pay": null,
-   "comp": 121600.0,
-   "comp_basis": "estimated",
-   "reach": 0.06,
-   "flags": [],
-   "match": 4832
-  },
-  {
    "source": "workday",
    "company": "Lloyds Banking Group",
    "category": "retail_bank",
@@ -14140,6 +14142,42 @@
     "Level 3 - you already hold AAT Level 4"
    ],
    "match": 2861
+  },
+  {
+   "source": "gov.uk apprenticeships",
+   "company": "ALLIANCE DISPOSABLES LIMITED",
+   "category": "other",
+   "title": "Accounts Apprenticeship",
+   "location": "Cheshire (CW2 8UY)",
+   "url": "https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC2000062712",
+   "posted": "4 November 2026",
+   "department": "Apprenticeship",
+   "description": "Apprenticeship. Training course: Professional accounting technician (level 4).",
+   "salary_min": null,
+   "salary_max": null,
+   "salary_text": "£17,140 a year",
+   "workplace": null,
+   "extra": {
+    "course": "Professional accounting technician (level 4)",
+    "closes": "Closes in 23 days (Friday 27 November 2026 at 11:59pm)",
+    "start": "30 November 2026"
+   },
+   "category_label": "Other employer",
+   "level": "apprentice",
+   "function": "other",
+   "interest": 0.35,
+   "tracks": [
+    "Finance / accounting"
+   ],
+   "workplace_type": "unknown",
+   "base_pay": 17140,
+   "comp": 17100.0,
+   "comp_basis": "advertised",
+   "reach": 0.3,
+   "flags": [
+    "Level 4 - you already hold AAT Level 4"
+   ],
+   "match": 2613
   },
   {
    "source": "gov.uk apprenticeships",
