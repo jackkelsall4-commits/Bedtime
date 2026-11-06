@@ -30,7 +30,7 @@ UK_WORDS = [
 ]
 _UK_RX = re.compile(r"\b(" + "|".join(re.escape(w) for w in UK_WORDS) + r")\b|\buk\b|\bgb\b|\bgbr\b", re.I)
 # Places that share a name with a UK one.
-_FALSE_UK = re.compile(r"new york|new england|london,? (ontario|on\b|ky|kentucky|ohio)|birmingham,? (al|alabama|mi)|"
+_FALSE_UK = re.compile(r"united states|\busa\b|\bu\.s\.|canada|australia|new york|new england|london,? (ontario|on\b|ky|kentucky|ohio)|birmingham,? (al|alabama|mi)|"
                        r"cambridge,? (ma|massachusetts)|manchester,? (nh|ct)|reading,? pa|york,? pa|"
                        r"aberdeen,? (sd|md|wa)|bath,? (me|ny)|newcastle,? (nsw|australia)|perth|"
                        r"wales,? (nsw|australia)|new south wales", re.I)
